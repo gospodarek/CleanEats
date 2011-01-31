@@ -1,0 +1,23 @@
+blockquote.pullquote {
+	padding:0px 0 !important;
+	margin: 5px 15px 8px 0;
+	float:left;
+	width:160px;
+	text-align: center;
+	border-top:3px double #ccc;
+	border-bottom:3px double #ccc;
+        border-left:0;
+        border-right:0;
+	line-height:1.6em;
+        background:#fefefe;
+}
+blockquote.pullquote.right {
+	margin: 5px 10px 8px 15px;
+	float:right;
+}
+blockquote.pullquote p {
+	margin:0 !important;
+	font-size:1.4em;
+	color:#666;
+	font-weight:bold;
+}
